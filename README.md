@@ -1,4 +1,4 @@
-# flashcards_app
+# Flashcards-App
 
 A new Flutter project.
 
